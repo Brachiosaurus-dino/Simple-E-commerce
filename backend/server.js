@@ -23,8 +23,6 @@ app.listen(PORT,()=>{
 
 
 
-// TojQ5QBO66TidTOp pass
-// manbirss9029 ID
 
 
 
